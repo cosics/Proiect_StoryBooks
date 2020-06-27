@@ -7,6 +7,8 @@
 Adaugati credentialele proprii ptr mongoDB URI and Google OAuth in fisierul config.env
 </p>
 
+<h3>poze parcurs/</h3>
+
 Include:
 
 * [express]
@@ -54,9 +56,9 @@ npm run dev
 # Run in production
 npm start
 
-<h1>poze parcurs/</h1>
 
-<h3>Leads Manager</h3>
+
+<h1>Parcurs:<h1>
 
 <ul>
 <li>[x] Database Setup</li>
