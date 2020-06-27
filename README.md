@@ -1,9 +1,10 @@
 # Proiect_StoryBooks
-<p>Autentificare cu contul Google, creeaza story-uri private sau publice, mai multi utilizatori pot creea story-uri, toate story-urile (  sau numai cele ale unui anumit utilizator ) pot fi vizualizate, editate, sterse.</p>
-
 <b>Node.js app with Google OAuth. </b>
+<p>Autentificare cu contul Google, creeaza story-uri private sau publice, mai multi utilizatori pot creea story-uri, toate story-urile ( sau numai cele ale unui anumit utilizator ) pot fi vizualizate, editate, sterse.</p>
+
+
 <p>Aplicatia foloseste Node.js/Express/MongoDB cu autentificare prin Google OAuth .
-Adaugati credentialele proprii ptr mongoDB URI and Google OAuth in fisierul config.env.
+Adaugati credentialele proprii ptr mongoDB URI and Google OAuth in fisierul config.env
 </p>
 
 Include:
@@ -44,7 +45,7 @@ Development utilities:
 
 
 
-  # Install dependencies
+# Install dependencies
 npm install
 
 # Run in develpment
@@ -66,30 +67,30 @@ npm start
 <li>[x] Template Engine & Layouts </li>
 <li>[x] Index Routes & Views </li>
 <li>[x] Materialize & Font Awesome  </li>
-<li>[x] Set Static Folder  </li>
+<li>[x] Static Folder  </li>
 <li>[x] Login Layout </li>
 <li>[x] Login Page Template </li>
 <li>[x] Start Google Login </li>
-<li>[x]Passport Config & Sessions </li>
-<li>[x]User Model </li>
-<li>[x]Passport Google Strategy </li>
-<li>[x]Auth Routes </li>
-<li>[x]Save Google Profile Data</li>
-<li>[x]Logout </li>
-<li>[x]Navigation </li>
-<li>[x]Auth Middleware</li>
-<li>[x]Store Sessions In Database </li>
-<li>[x]Story Model </li>
-<li>[x]Dashboard Stories </li>
-<li>[x]Add Story </li>
-<li>[x]Format Date Handlebar Helper </li>
-<li>[x]Public Stories </li>
-<li>[x]Truncate & StripTags Helpers </li>
-<li>[x]Edit Icon Helper </li>
-<li>[x]Edit Story </li>
-<li>[x]Method Override For PUT Requests</li>
-<li>[x]Method Override For DELETE Requests </li>
-<li>[x]Single Story Page </li>
-<li>[x]User Stories </li>
+<li>[x] Passport Config & Sessions </li>
+<li>[x] User Model </li>
+<li>[x] Passport Google Strategy </li>
+<li>[x] Auth Routes </li>
+<li>[x] Save Google Profile Data</li>
+<li>[x] Logout </li>
+<li>[x] Navigation </li>
+<li>[x] Auth Middleware</li>
+<li>[x] Store Sessions In Database </li>
+<li>[x] Story Model </li>
+<li>[x] Dashboard Stories </li>
+<li>[x] Add Story </li>
+<li>[x] Format Date Handlebar Helper </li>
+<li>[x] Public Stories </li>
+<li>[x] Truncate & StripTags Helpers </li>
+<li>[x] Edit Icon Helper </li>
+<li>[x] Edit Story </li>
+<li>[x] Method Override pt PUT Requests</li>
+<li>[x] Method Override pt DELETE Requests </li>
+<li>[x] Single Story Page </li>
+<li>[x] User Stories </li>
 </ul>
 
