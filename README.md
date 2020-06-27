@@ -58,7 +58,7 @@ npm start
 
 
 
-<h1>Parcurs:<h1>
+<h1>Parcurs:</h1>
 
 <ul>
 <li>[x] Database Setup</li>
